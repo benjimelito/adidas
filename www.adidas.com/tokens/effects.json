@@ -1,0 +1,11 @@
+{
+  "radius-1": {
+    "value": "0px",
+    "description": "Observed 30x on https://www.adidas.com, https://www.adidas.com/us/adifom-iiinfinity-mules/IG6969.html",
+    "usageCount": 30,
+    "observedOn": [
+      "https://www.adidas.com",
+      "https://www.adidas.com/us/adifom-iiinfinity-mules/IG6969.html"
+    ]
+  }
+}

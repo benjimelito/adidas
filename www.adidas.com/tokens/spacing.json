@@ -1,0 +1,37 @@
+{
+  "spacing-xs": {
+    "value": "4px",
+    "description": "Observed 20x on https://www.adidas.com, https://www.adidas.com/us/adifom-iiinfinity-mules/IG6969.html",
+    "usageCount": 20,
+    "observedOn": [
+      "https://www.adidas.com",
+      "https://www.adidas.com/us/adifom-iiinfinity-mules/IG6969.html"
+    ]
+  },
+  "spacing-xs-1": {
+    "value": "-1px",
+    "description": "Observed 2x on https://www.adidas.com, https://www.adidas.com/us/adifom-iiinfinity-mules/IG6969.html",
+    "usageCount": 2,
+    "observedOn": [
+      "https://www.adidas.com",
+      "https://www.adidas.com/us/adifom-iiinfinity-mules/IG6969.html"
+    ]
+  },
+  "spacing-xs-2": {
+    "value": "0px",
+    "description": "Observed 2x on https://www.adidas.com, https://www.adidas.com/us/adifom-iiinfinity-mules/IG6969.html",
+    "usageCount": 2,
+    "observedOn": [
+      "https://www.adidas.com",
+      "https://www.adidas.com/us/adifom-iiinfinity-mules/IG6969.html"
+    ]
+  },
+  "spacing-lg": {
+    "value": "20px",
+    "description": "Observed 1x on https://www.adidas.com/us/adifom-iiinfinity-mules/IG6969.html",
+    "usageCount": 1,
+    "observedOn": [
+      "https://www.adidas.com/us/adifom-iiinfinity-mules/IG6969.html"
+    ]
+  }
+}

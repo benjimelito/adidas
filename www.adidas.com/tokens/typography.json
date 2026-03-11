@@ -1,0 +1,71 @@
+{
+  "font-family-1": {
+    "value": "AdihausDIN",
+    "description": "Observed 40x on https://www.adidas.com, https://www.adidas.com/us/adifom-iiinfinity-mules/IG6969.html",
+    "usageCount": 40,
+    "observedOn": [
+      "https://www.adidas.com",
+      "https://www.adidas.com/us/adifom-iiinfinity-mules/IG6969.html"
+    ]
+  },
+  "font-family-2": {
+    "value": "Arial",
+    "description": "Observed 30x on https://www.adidas.com, https://www.adidas.com/us/adifom-iiinfinity-mules/IG6969.html",
+    "usageCount": 30,
+    "observedOn": [
+      "https://www.adidas.com",
+      "https://www.adidas.com/us/adifom-iiinfinity-mules/IG6969.html"
+    ]
+  },
+  "font-family-3": {
+    "value": "Helvetica",
+    "description": "Observed 30x on https://www.adidas.com, https://www.adidas.com/us/adifom-iiinfinity-mules/IG6969.html",
+    "usageCount": 30,
+    "observedOn": [
+      "https://www.adidas.com",
+      "https://www.adidas.com/us/adifom-iiinfinity-mules/IG6969.html"
+    ]
+  },
+  "font-heading-4": {
+    "value": "16px",
+    "description": "Observed 20x on https://www.adidas.com/us/adifom-iiinfinity-mules/IG6969.html",
+    "usageCount": 20,
+    "observedOn": [
+      "https://www.adidas.com/us/adifom-iiinfinity-mules/IG6969.html"
+    ]
+  },
+  "font-family-5": {
+    "value": "adidasFG",
+    "description": "Observed 20x on https://www.adidas.com, https://www.adidas.com/us/adifom-iiinfinity-mules/IG6969.html",
+    "usageCount": 20,
+    "observedOn": [
+      "https://www.adidas.com",
+      "https://www.adidas.com/us/adifom-iiinfinity-mules/IG6969.html"
+    ]
+  },
+  "font-heading-6": {
+    "value": "24px",
+    "description": "Observed 20x on https://www.adidas.com, https://www.adidas.com/us/adifom-iiinfinity-mules/IG6969.html",
+    "usageCount": 20,
+    "observedOn": [
+      "https://www.adidas.com",
+      "https://www.adidas.com/us/adifom-iiinfinity-mules/IG6969.html"
+    ]
+  },
+  "font-body-7": {
+    "value": "14px",
+    "description": "Observed 10x on https://www.adidas.com",
+    "usageCount": 10,
+    "observedOn": [
+      "https://www.adidas.com"
+    ]
+  },
+  "font-heading-8": {
+    "value": "38px",
+    "description": "Observed 10x on https://www.adidas.com",
+    "usageCount": 10,
+    "observedOn": [
+      "https://www.adidas.com"
+    ]
+  }
+}

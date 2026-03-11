@@ -1,0 +1,65 @@
+/**
+ * SystemMiner Design Tokens
+ * Extracted from: https://www.adidas.com
+ * Generated: 2026-03-11T19:05:10.616Z
+ * 
+ * Usage: Import this file in your index.css
+ * All tokens use --sm- prefix for namespacing
+ */
+
+:root {
+  /* ======================== */
+  /* Colors                   */
+  /* ======================== */
+  --sm-color-000: #000; /* 796x */
+  --sm-color-fff: #fff; /* 44x */
+  --sm-color-brand-textprimary: #000000; /* 35x */
+  --sm-color-brand-primary: #57c5f7; /* 10x */
+  --sm-color-eceff1: #eceff1; /* 23x */
+  --sm-color-brand-background: #ffffff; /* 20x */
+  --sm-color-1a98ff: #1a98ff; /* 10x */
+  --sm-color-brand-link: #0378ff; /* 10x */
+  --sm-color-3175de: #3175de; /* 3x */
+  --sm-color-f9b900: #f9b900; /* 3x */
+  --sm-color-00ac37: #00ac37; /* 3x */
+  --sm-color-ea2c35: #ea2c35; /* 3x */
+  --sm-color-0286cd: #0286cd; /* 3x */
+  --sm-color-1877f2: #1877f2; /* 3x */
+  --sm-color-4285f4: #4285f4; /* 3x */
+  --sm-color-34a853: #34a853; /* 3x */
+  --sm-color-fbbc05: #fbbc05; /* 3x */
+  --sm-color-ea4335: #ea4335; /* 3x */
+  --sm-color-ee1d52: #ee1d52; /* 3x */
+  --sm-color-69c9d0: #69c9d0; /* 3x */
+  --sm-color-1da1f2: #1da1f2; /* 3x */
+  --sm-color-4680c2: #4680c2; /* 3x */
+  --sm-color-400090: #400090; /* 3x */
+  --sm-color-ff9900: #ff9900; /* 2x */
+  --sm-color-rgba-3-120-255-1: rgba(3,120,255,1); /* 1x */
+
+  /* ======================== */
+  /* Typography               */
+  /* ======================== */
+  --sm-font-family-1: AdihausDIN; /* 40x */
+  --sm-font-family-2: Arial; /* 30x */
+  --sm-font-family-3: Helvetica; /* 30x */
+  --sm-font-heading-4: 16px; /* 20x */
+  --sm-font-family-5: adidasFG; /* 20x */
+  --sm-font-heading-6: 24px; /* 20x */
+  --sm-font-body-7: 14px; /* 10x */
+  --sm-font-heading-8: 38px; /* 10x */
+
+  /* ======================== */
+  /* Spacing                  */
+  /* ======================== */
+  --sm-spacing-xs: 4px; /* 20x */
+  --sm-spacing-xs-1: -1px; /* 2x */
+  --sm-spacing-xs-2: 0px; /* 2x */
+  --sm-spacing-lg: 20px; /* 1x */
+
+  /* ======================== */
+  /* Effects                  */
+  /* ======================== */
+  --sm-radius-1: 0px; /* 30x */
+
+}
